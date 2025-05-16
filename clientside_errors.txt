@@ -1,0 +1,1116 @@
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - addons/darkrpmodification/lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - addons/darkrpmodification/lua/includes/lib_init.lua:9
+     4. unknown - addons/darkrpmodification/lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - addons/darkrpmodification/lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[cats] addons/cats/lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - addons/cats/lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - addons/cats/lua/autorun/cats-load.lua:8
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/badmin.lua:3: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/badmin.lua:3
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[someshit] addons/someshit/lua/eris/themes/flat.lua:2: attempt to index global 'col' (a nil value)
+  1. unknown - addons/someshit/lua/eris/themes/flat.lua:2
+   2. include - [C]:-1
+    3. unknown - addons/someshit/lua/eris/sh_init.lua:32
+     4. include - [C]:-1
+      5. unknown - addons/someshit/lua/autorun/eris_load.lua:13
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/entities/rx_printer_base/cl_init.lua:13: attempt to index global 'RXPrinters_Config' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/entities/rx_printer_base/cl_init.lua:13
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - addons/darkrpmodification/lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - addons/darkrpmodification/lua/includes/lib_init.lua:9
+     4. unknown - addons/darkrpmodification/lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - addons/darkrpmodification/lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - addons/darkrpmodification/lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - addons/darkrpmodification/lua/includes/lib_init.lua:9
+     4. unknown - addons/darkrpmodification/lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - addons/darkrpmodification/lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[cats] addons/cats/lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - addons/cats/lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - addons/cats/lua/autorun/cats-load.lua:8
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - lua/includes/init.lua:23
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - lua/includes/lib_init.lua:9
+     4. unknown - lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - lua/includes/init.lua:145
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - lua/autorun/cats-load.lua:8
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/badmin.lua:3: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/badmin.lua:3
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/darkrp.lua:11: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/darkrp.lua:11
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - lua/includes/lib_init.lua:9
+     4. unknown - lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - lua/autorun/cats-load.lua:8
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/badmin.lua:3: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/badmin.lua:3
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/darkrp.lua:11: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/darkrp.lua:11
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1632825372] addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1304932254] addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1632825372] addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1304932254] addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129: attempt to index a nil value
+  1. func - gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129
+   2. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129: attempt to index a nil value
+  1. func - gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129
+   2. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'helix\gamemode\cl_init.lua' - File not found or is empty (@gamemodes/ixhl2rp/gamemode/cl_init.lua (line 2))
+  1. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't Load Init Script: 'helix/gamemode/cl_init.lua'
+  1. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_combinelock.lua:167: attempt to index global 'ix' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_combinelock.lua:167
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_forcefield.lua:213: attempt to index global 'ix' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_forcefield.lua:213
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] bad argument #4 to CreateConVar (string expected, got bool)
+  1. unknown - lua/autorun/hl2_entities_commands.lua:3
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] bad argument #5 to CreateConVar (number expected, got bool)
+  1. unknown - lua/autorun/hl2_entities_commands.lua:3
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[JMod] language.Add expects string as second argument!
+  1. unknown - lua/jmod/sh_weapons.lua:433
+   2. include - [C]:-1
+    3. unknown - lua/autorun/jmod_init.lua:264
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'includes\modules\voicechannel.lua' - File not found or is empty (@lua/autorun/radio_init.lua (line 20))
+  1. unknown - lua/autorun/radio_init.lua:20
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/radio_init.lua:20: Module not found!
+  1. require - [C]:-1
+   2. unknown - lua/autorun/radio_init.lua:20
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'helix\gamemode\cl_init.lua' - File not found or is empty (@gamemodes/ixravenholmrp/gamemode/cl_init.lua (line 2))
+  1. unknown - gamemodes/ixravenholmrp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't Load Init Script: 'helix/gamemode/cl_init.lua'
+  1. unknown - gamemodes/ixravenholmrp/gamemode/cl_init.lua:2
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:7
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunConsoleCommand: Command is blocked! (datacachesize)
+  1. unknown - gamemodes/darkrp/gamemode/modules/optimisation/fps_cl.lua:13
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[eui] addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57: attempt to compare number with nil
+  1. drawScroll - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57
+   2. mainPage - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:127
+    3. Menu - addons/eui/lua/eui/modules/battlepass/cl_init.lua:79
+     4. func - addons/eui/lua/eui/modules/battlepass/hooks/cl_hooks.lua:12
+      5. unknown - lua/includes/extensions/net.lua:44
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[eui] addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57: attempt to compare number with nil
+  1. drawScroll - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57
+   2. mainPage - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:127
+    3. Menu - addons/eui/lua/eui/modules/battlepass/cl_init.lua:79
+     4. func - addons/eui/lua/eui/modules/battlepass/hooks/cl_hooks.lua:12
+      5. unknown - lua/includes/extensions/net.lua:44
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:7
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunConsoleCommand: Command is blocked! (datacachesize)
+  1. unknown - gamemodes/darkrp/gamemode/modules/optimisation/fps_cl.lua:13
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[badmin] CreateConVar: Invalid ConVar name! (*c8cc57f0e8a2adc9d568c081e9ef718af771dab9cc4e5f27b8b008b6b9ac38e3)
+  1. storedatabackupkey - addons/badmin/lua/ba/core/logging/logs_cl.lua:43
+   2. v - addons/badmin/lua/ba/core/logging/logs_cl.lua:54
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] RunConsoleCommand: Command is blocked! (fov_desired)
+  1. unknown - gamemodes/darkrp/gamemode/core/smallscripts/test_sh.lua:27
+   2. include - [C]:-1
+    3. include_dir - gamemodes/darkrp/gamemode/sh_init.lua:34
+     4. unknown - gamemodes/darkrp/gamemode/sh_init.lua:62
+      5. include - [C]:-1
+       6. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 66))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:66
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[badmin] CreateConVar: Invalid ConVar name! (*c8cc57f0e8a2adc9d568c081e9ef718af771dab9cc4e5f27b8b008b6b9ac38e3)
+  1. storedatabackupkey - addons/badmin/lua/ba/core/logging/logs_cl.lua:43
+   2. v - addons/badmin/lua/ba/core/logging/logs_cl.lua:54
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] RunConsoleCommand: Command is blocked! (fov_desired)
+  1. unknown - gamemodes/darkrp/gamemode/core/smallscripts/test_sh.lua:27
+   2. include - [C]:-1
+    3. include_dir - gamemodes/darkrp/gamemode/sh_init.lua:34
+     4. unknown - gamemodes/darkrp/gamemode/sh_init.lua:62
+      5. include - [C]:-1
+       6. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 66))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:66
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'includes\modules\hash.lua' - File not found or is empty (@lua/autorun/luarun.lua (line 248))
+  1. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/luarun.lua:248: Module not found!
+  1. require - [C]:-1
+   2. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/client/legs_cl.lua:305: attempt to call global 'hook' (a table value)
+  1. unknown - lua/autorun/client/legs_cl.lua:305
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/sh_drp_sup.lua:158: attempt to index global 'rp' (a nil value)
+  1. unknown - lua/autorun/sh_drp_sup.lua:158
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'includes\modules\hash.lua' - File not found or is empty (@lua/autorun/luarun.lua (line 248))
+  1. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/luarun.lua:248: Module not found!
+  1. require - [C]:-1
+   2. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/client/legs_cl.lua:305: attempt to call global 'hook' (a table value)
+  1. unknown - lua/autorun/client/legs_cl.lua:305
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/sh_drp_sup.lua:158: attempt to index global 'rp' (a nil value)
+  1. unknown - lua/autorun/sh_drp_sup.lua:158
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview.lua:447: attempt to call method 'OnRowSelected' (a nil value)
+  1. OnClickLine - lua/vgui/dlistview.lua:447
+   2. unknown - lua/vgui/dlistview_line.lua:81
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview.lua:447: attempt to call method 'OnRowSelected' (a nil value)
+  1. OnClickLine - lua/vgui/dlistview.lua:447
+   2. unknown - lua/vgui/dlistview_line.lua:81
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview.lua:447: attempt to call method 'OnRowSelected' (a nil value)
+  1. OnClickLine - lua/vgui/dlistview.lua:447
+   2. unknown - lua/vgui/dlistview_line.lua:81
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview_line.lua:74: attempt to call method 'OnRowRightClick' (a nil value)
+  1. unknown - lua/vgui/dlistview_line.lua:74
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview_line.lua:74: attempt to call method 'OnRowRightClick' (a nil value)
+  1. unknown - lua/vgui/dlistview_line.lua:74
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:83: attempt to index global 'GM' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:83
+   2. include - [C]:-1
+    3. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+     4. unknown - gamemodes/ixhl2rp/plugins/cameramenu/sh_plugin.lua:5
+      5. include - [C]:-1
+       6. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+        7. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+         8. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+          9. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+           10. unknown - gamemodes/helix/gamemode/shared.lua:102
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:110
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:192
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:110
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:192
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+

@@ -1,0 +1,77 @@
+//Choreo version 1
+actor "tim_larkin"
+{
+	channel "audio"
+	{
+		event speak "cake_ride-1"
+		{
+			time 0 8
+			param "escape.cake_ride-1"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+		event speak "cake_ride-2"
+		{
+			time 8 16
+			param "escape.cake_ride-2"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+		event speak "cake_ride-3"
+		{
+			time 16 24
+			param "escape.cake_ride-3"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+		event speak "cake_ride-4"
+		{
+			time 24 32
+			param "escape.cake_ride-4"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+		event speak "cake_ride-5"
+		{
+			time 32 40
+			param "escape.cake_ride-5"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+		event speak "cake_ride-6"
+		{
+			time 40 48.4
+			param "escape.cake_ride-6"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+	}
+}
+"scalesettings"
+{
+	"CChoreoView" "100"
+	"SceneRampTool" "100"
+	"ExpressionTool" "100"
+	"GestureTool" "100"
+	"RampTool" "100"
+}
+fps 60
+snap off

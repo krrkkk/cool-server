@@ -1,0 +1,33 @@
+//Choreo version 1
+actor "Aperture_AI"
+{
+	channel "voice"
+	{
+		event speak "Portal.GlaDOS.core_nag_10"
+		{
+			time 0.113333 1.59068
+			param "Portal.GlaDOS.core_nag_10"
+			fixedlength
+			
+			cctype "cc_master" 
+			cctoken ""
+			cc_noattentuate
+		}
+		event firetrigger "backtorandom1"
+		{
+			time 1e-06 -1
+			param "2"
+			
+		}
+	}
+}
+"scalesettings"
+{
+	"CChoreoView" "100"
+	"SceneRampTool" "100"
+	"ExpressionTool" "100"
+	"GestureTool" "100"
+	"RampTool" "100"
+}
+fps 60
+snap off

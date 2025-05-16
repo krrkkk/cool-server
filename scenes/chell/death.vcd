@@ -1,0 +1,51 @@
+//Choreo version 1
+actor "Chell"
+{
+	channel "face"
+	{
+		event flexanimation "facial_animation"
+		{
+			time 0 14.166664
+			param ""
+			flexanimations samples_use_time
+			{
+				"frown"0.1333 0.129426 curve_easein_to_curve_easein
+					14.0667 0.129426 curve_easein_to_curve_easeout
+				}
+				"innerSquint"0 0 curve_easeout_to_curve_easeout
+				}
+				"outerSquint}
+				"pucker"0.0017 0 curve_easein_to_curve_easeout
+				}
+				"smile}
+				"sneer}
+				"eyes_updown" range 45 -45
+				0.1 0.49809402 curve_easein_to_curve_easeout
+					0.5333 1.00011 curve_easeout_to_curve_easeout
+				}
+				"eyes_rightleft" range 65 -65
+				7.8 0.376512 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+				}
+				"death"0.0667 0.91774803 curve_easein_to_curve_easeout
+				}
+			}
+			
+		}
+	}
+	channel "look"
+	{
+	}
+	channel "head"
+	{
+	}
+}
+"scalesettings"
+{
+	"CChoreoView" "100"
+	"SceneRampTool" "100"
+	"ExpressionTool" "100"
+	"GestureTool" "100"
+	"RampTool" "100"
+}
+fps 60
+snap off

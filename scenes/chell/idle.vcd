@@ -1,0 +1,132 @@
+//Choreo version 1
+actor "Chell"
+{
+	channel "face"
+	{
+		event flexanimation "facial_animation"
+		{
+			time 0 37.5
+			param ""
+			flexanimations samples_use_time
+			{
+				"frown"1.5 0.49025002 curve_easein_to_curve_easeout
+					9.9667 0.419654 curve_easein_to_curve_easeout
+					10.5667 0.192178 curve_easein_to_curve_easeout
+					19.2 0.298072 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					26.9 0.243164 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					37.5 0.121582 curve_easein_to_curve_easeout
+				}
+				"innerSquint"0 0.831464 curve_easeout_to_curve_easeout
+					3.7333 0.678506 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					6.0333 0.611832 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					8.1 0.760868 curve_easeout_to_curve_easeout
+					11.0667 0.611832 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					13.3 0.635364 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					16.4 0.792244 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					20.2 0.792244 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					21.1667 0.49809402 curve_bspline_to_curve_bspline
+					22 0.545158 curve_easeout_to_curve_easeout
+					23.0333 0.792244 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					24.6 0.839308 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					26.7333 0.702038 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					27.9 0.792244 curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+					37.5 0.86284 curve_easein_to_curve_easeout
+				}
+				"outerSquint}
+				"pucker"0.0017 0 curve_easein_to_curve_easeout
+				}
+				"smile"26.9333 0.007844 curve_easeout_to_curve_easeout
+					29.5667 0.258852 curve_easein_to_curve_easeout
+					31.3667 0.247086 curve_easein_to_curve_easeout
+					35.2 0 curve_easein_to_curve_easein
+				}
+				"sneer"9.1667 0.01961 curve_easein_to_curve_easeout
+					17.1667 0.33729202 curve_easein_to_curve_easeout
+					22.7 0.33729202 curve_easein_to_curve_easeout
+					30.7333 0.01961 curve_easein_to_curve_easeout
+				}
+				"eyes_updown" range 45 -45
+				0.1 0.49809402 curve_easein_to_curve_easeout
+					6.7667 0.50986 curve_easein_to_curve_easein
+					7.1333 0.749102 curve_easeout_to_curve_easeout
+					8.5 0.756946 curve_easeout_to_curve_easeout
+					9.0333 0.517704 curve_easeout_to_curve_easeout
+					17.3 0.50986 curve_easeout_to_curve_easeout
+					17.5667 0.309838 curve_easeout_to_curve_easeout
+					18.3667 0.329448 curve_easein_to_curve_easein
+					18.9333 0.517704 curve_easein_to_curve_easeout
+					25 0.537314 curve_easeout_to_curve_easeout
+				}
+				"eyes_rightleft" range 65 -65
+				0.1333 0.49809402 curve_easeout_to_curve_easeout
+					0.3667 0.329448 curve_easeout_to_curve_easeout
+					0.8667 0.317682 curve_easeout_to_curve_easeout
+					0.9 0.50986 curve_easeout_to_curve_easeout
+					1.2667 0.49809402 curve_easeout_to_curve_easeout
+					1.6 0.66674 curve_easeout_to_curve_easeout
+					2.3667 0.68635 curve_easeout_to_curve_easeout
+					2.5333 0.486328 curve_easeout_to_curve_easeout
+					5.6667 0.478484 curve_easeout_to_curve_easeout
+					6.7333 0.49809402 curve_easeout_to_curve_easeout
+					7.0667 0.73733604 curve_easeout_to_curve_easeout
+					9.6667 0.756946 curve_easeout_to_curve_easeout
+					9.9667 0.52947 curve_easeout_to_curve_easeout
+					11.7667 0.52947 curve_easeout_to_curve_easeout
+					11.9 0.60791004 curve_easeout_to_curve_easeout
+					13.7 0.619676 curve_easeout_to_curve_easeout
+					14 0.50986 curve_easeout_to_curve_easeout
+					15.3667 0.50986 curve_easeout_to_curve_easeout
+					15.6 0.439264 curve_easeout_to_curve_easeout
+					16.4333 0.447108 curve_easeout_to_curve_easeout
+					16.6333 0.49809402 curve_easeout_to_curve_easeout
+					17.0667 0.50986 curve_easeout_to_curve_easeout
+					17.2333 0.188256 curve_easein_to_curve_easeout
+					18.9667 0.17649001 curve_easein_to_curve_easeout
+					19.2 0.49809402 curve_easeout_to_curve_easeout
+					19.8333 0.50986 curve_easeout_to_curve_easeout
+					19.9667 0.5883 curve_easeout_to_curve_easeout
+					21.3 0.5883 curve_easeout_to_curve_easeout
+					21.4333 0.50986 curve_easeout_to_curve_easeout
+					21.9667 0.50986 curve_easeout_to_curve_easeout
+					22.2333 0.768712 curve_easeout_to_curve_easeout
+					24.4333 0.768712 curve_easeout_to_curve_easeout
+					24.6 0.50986 curve_easeout_to_curve_easeout
+					25.1667 0.49809402 curve_easeout_to_curve_easeout
+					25.3667 0.427498 curve_easeout_to_curve_easeout
+					25.7667 0.427498 curve_easeout_to_curve_easeout
+					25.9667 0.49809402 curve_easeout_to_curve_easeout
+					26.7 0.50986 curve_easeout_to_curve_easeout
+					26.9 0.60791004 curve_easeout_to_curve_easeout
+					27.9333 0.60791004 curve_easeout_to_curve_easeout
+					27.9667 0.49809402 curve_easeout_to_curve_easeout
+					31.0333 0.478484 curve_easeout_to_curve_easeout
+					31.0333 0.556924 curve_easeout_to_curve_easeout
+					32.7 0.57653403 curve_easeout_to_curve_easeout
+					32.7667 0.49809402 curve_easeout_to_curve_easeout
+					34.7 0.49809402 curve_easeout_to_curve_easeout
+					34.7667 0.407888 curve_easeout_to_curve_easeout
+					36.1333 0.419654 curve_easeout_to_curve_easeout
+					36.2333 0.50986 curve_easeout_to_curve_easeout
+					37.2667 0.50986 curve_easeout_to_curve_easeout
+				}
+			}
+			
+		}
+	}
+	channel "look"
+	{
+	}
+	channel "head"
+	{
+	}
+}
+"scalesettings"
+{
+	"CChoreoView" "100"
+	"SceneRampTool" "100"
+	"ExpressionTool" "100"
+	"GestureTool" "100"
+	"RampTool" "100"
+}
+fps 60
+snap off

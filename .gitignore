@@ -1,0 +1,16 @@
+*.gma
+*.bsp
+*.mdl
+*.vpk
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.zip
+*.7z
+*.rar
+addons/*
+data/*
+cache/*
+garrysmod/download/*
+garrysmod/sound/*
