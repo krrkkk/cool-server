@@ -1,5 +1,5 @@
 
-FACTION.name = "niger ota"
+FACTION.name = "Overwatch Transhuman Arms"
 FACTION.description = "A transhuman Overwatch soldier produced by the Combine."
 FACTION.color = Color(150, 50, 50, 255)
 FACTION.pay = 40
