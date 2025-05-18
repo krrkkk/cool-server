@@ -1,0 +1,3248 @@
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - addons/darkrpmodification/lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - addons/darkrpmodification/lua/includes/lib_init.lua:9
+     4. unknown - addons/darkrpmodification/lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - addons/darkrpmodification/lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[cats] addons/cats/lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - addons/cats/lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - addons/cats/lua/autorun/cats-load.lua:8
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/badmin.lua:3: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/badmin.lua:3
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[someshit] addons/someshit/lua/eris/themes/flat.lua:2: attempt to index global 'col' (a nil value)
+  1. unknown - addons/someshit/lua/eris/themes/flat.lua:2
+   2. include - [C]:-1
+    3. unknown - addons/someshit/lua/eris/sh_init.lua:32
+     4. include - [C]:-1
+      5. unknown - addons/someshit/lua/autorun/eris_load.lua:13
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/entities/rx_printer_base/cl_init.lua:13: attempt to index global 'RXPrinters_Config' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/entities/rx_printer_base/cl_init.lua:13
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - addons/darkrpmodification/lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - addons/darkrpmodification/lua/includes/lib_init.lua:9
+     4. unknown - addons/darkrpmodification/lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - addons/darkrpmodification/lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - addons/darkrpmodification/lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - addons/darkrpmodification/lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - addons/darkrpmodification/lua/includes/lib_init.lua:9
+     4. unknown - addons/darkrpmodification/lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - addons/darkrpmodification/lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[cats] addons/cats/lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - addons/cats/lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - addons/cats/lua/autorun/cats-load.lua:8
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[darkrpmodification] addons/darkrpmodification/lua/schat2/schat2_config.lua:32: attempt to call method 'GetNetVar' (a nil value)
+  1. IsTyping - addons/darkrpmodification/lua/schat2/schat2_config.lua:32
+   2. GrabEarAnimation - gamemodes/base/gamemode/animations.lua:242
+    3. unknown - gamemodes/base/gamemode/animations.lua:225
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - lua/includes/init.lua:23
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - lua/includes/lib_init.lua:9
+     4. unknown - lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - lua/includes/init.lua:145
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - lua/autorun/cats-load.lua:8
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/badmin.lua:3: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/badmin.lua:3
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/darkrp.lua:11: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/darkrp.lua:11
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/net.lua:316: attempt to index local 'eMeta' (a nil value)
+  1. unknown - lua/includes/extensions/net.lua:316
+   2. include - [C]:-1
+    3. unknown - lua/includes/init.lua:23
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/lib/color.lua:20: attempt to index local 'COLOR' (a nil value)
+  1. unknown - lua/includes/lib/color.lua:20
+   2. include_cl - [C]:-1
+    3. include_sh - lua/includes/lib_init.lua:9
+     4. unknown - lua/includes/lib_init.lua:16
+      5. include - [C]:-1
+       6. unknown - lua/includes/init.lua:145
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/utime/sh_utime.lua:6: attempt to index local 'meta' (a nil value)
+  1. unknown - lua/utime/sh_utime.lua:6
+   2. include - [C]:-1
+    3. unknown - lua/autorun/cats-load.lua:8
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/badmin.lua:3: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/badmin.lua:3
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/igs/extensions/darkrp.lua:11: attempt to index local 'STORE_ITEM' (a nil value)
+  1. unknown - lua/igs/extensions/darkrp.lua:11
+   2. iCL - [C]:-1
+    3. incl - lua/autorun/l_ingameshop.lua:10
+     4. dir - lua/autorun/l_ingameshop.lua:47
+      5. unknown - lua/igs/launcher.lua:54
+       6. iCL - [C]:-1
+        7. sh - lua/autorun/l_ingameshop.lua:10
+         8. unknown - lua/autorun/l_ingameshop.lua:57
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1632825372] addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1304932254] addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1632825372] addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1632825372/lua/weapons/tfa_dm_ak74/cl_init.lua:76
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[1304932254] addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183: attempt to index global 'TFA' (a nil value)
+  1. unknown - addons/1304932254/lua/weapons/tfa_ins2_m9.lua:183
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129: attempt to index a nil value
+  1. func - gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129
+   2. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129: attempt to index a nil value
+  1. func - gamemodes/ixhl2rp/plugins/act/cl_hooks.lua:129
+   2. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'helix\gamemode\cl_init.lua' - File not found or is empty (@gamemodes/ixhl2rp/gamemode/cl_init.lua (line 2))
+  1. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't Load Init Script: 'helix/gamemode/cl_init.lua'
+  1. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_combinelock.lua:167: attempt to index global 'ix' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_combinelock.lua:167
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_forcefield.lua:213: attempt to index global 'ix' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_forcefield.lua:213
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] bad argument #4 to CreateConVar (string expected, got bool)
+  1. unknown - lua/autorun/hl2_entities_commands.lua:3
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] bad argument #5 to CreateConVar (number expected, got bool)
+  1. unknown - lua/autorun/hl2_entities_commands.lua:3
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[JMod] language.Add expects string as second argument!
+  1. unknown - lua/jmod/sh_weapons.lua:433
+   2. include - [C]:-1
+    3. unknown - lua/autorun/jmod_init.lua:264
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'includes\modules\voicechannel.lua' - File not found or is empty (@lua/autorun/radio_init.lua (line 20))
+  1. unknown - lua/autorun/radio_init.lua:20
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/radio_init.lua:20: Module not found!
+  1. require - [C]:-1
+   2. unknown - lua/autorun/radio_init.lua:20
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'helix\gamemode\cl_init.lua' - File not found or is empty (@gamemodes/ixravenholmrp/gamemode/cl_init.lua (line 2))
+  1. unknown - gamemodes/ixravenholmrp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't Load Init Script: 'helix/gamemode/cl_init.lua'
+  1. unknown - gamemodes/ixravenholmrp/gamemode/cl_init.lua:2
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:7
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunConsoleCommand: Command is blocked! (datacachesize)
+  1. unknown - gamemodes/darkrp/gamemode/modules/optimisation/fps_cl.lua:13
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[eui] addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57: attempt to compare number with nil
+  1. drawScroll - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57
+   2. mainPage - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:127
+    3. Menu - addons/eui/lua/eui/modules/battlepass/cl_init.lua:79
+     4. func - addons/eui/lua/eui/modules/battlepass/hooks/cl_hooks.lua:12
+      5. unknown - lua/includes/extensions/net.lua:44
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[eui] addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57: attempt to compare number with nil
+  1. drawScroll - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:57
+   2. mainPage - addons/eui/lua/eui/modules/battlepass/tabs/cl_main.lua:127
+    3. Menu - addons/eui/lua/eui/modules/battlepass/cl_init.lua:79
+     4. func - addons/eui/lua/eui/modules/battlepass/hooks/cl_hooks.lua:12
+      5. unknown - lua/includes/extensions/net.lua:44
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:7
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] RunConsoleCommand: Command is blocked! (datacachesize)
+  1. unknown - gamemodes/darkrp/gamemode/modules/optimisation/fps_cl.lua:13
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[badmin] CreateConVar: Invalid ConVar name! (*c8cc57f0e8a2adc9d568c081e9ef718af771dab9cc4e5f27b8b008b6b9ac38e3)
+  1. storedatabackupkey - addons/badmin/lua/ba/core/logging/logs_cl.lua:43
+   2. v - addons/badmin/lua/ba/core/logging/logs_cl.lua:54
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] RunConsoleCommand: Command is blocked! (fov_desired)
+  1. unknown - gamemodes/darkrp/gamemode/core/smallscripts/test_sh.lua:27
+   2. include - [C]:-1
+    3. include_dir - gamemodes/darkrp/gamemode/sh_init.lua:34
+     4. unknown - gamemodes/darkrp/gamemode/sh_init.lua:62
+      5. include - [C]:-1
+       6. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 66))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:66
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[badmin] CreateConVar: Invalid ConVar name! (*c8cc57f0e8a2adc9d568c081e9ef718af771dab9cc4e5f27b8b008b6b9ac38e3)
+  1. storedatabackupkey - addons/badmin/lua/ba/core/logging/logs_cl.lua:43
+   2. v - addons/badmin/lua/ba/core/logging/logs_cl.lua:54
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] RunConsoleCommand: Command is blocked! (fov_desired)
+  1. unknown - gamemodes/darkrp/gamemode/core/smallscripts/test_sh.lua:27
+   2. include - [C]:-1
+    3. include_dir - gamemodes/darkrp/gamemode/sh_init.lua:34
+     4. unknown - gamemodes/darkrp/gamemode/sh_init.lua:62
+      5. include - [C]:-1
+       6. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[DarkRP] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 66))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:66
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] RunString(Ex):143: attempt to index global 'utf8' (a nil value)
+  1. unknown - RunString(Ex):143
+   2. unknown - [C]:-1
+    3. onsuccess - lua/autorun/urf_companion.lua:1
+     4. unknown - lua/includes/modules/http.lua:35
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'includes\modules\hash.lua' - File not found or is empty (@lua/autorun/luarun.lua (line 248))
+  1. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/luarun.lua:248: Module not found!
+  1. require - [C]:-1
+   2. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/client/legs_cl.lua:305: attempt to call global 'hook' (a table value)
+  1. unknown - lua/autorun/client/legs_cl.lua:305
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/sh_drp_sup.lua:158: attempt to index global 'rp' (a nil value)
+  1. unknown - lua/autorun/sh_drp_sup.lua:158
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'includes\modules\hash.lua' - File not found or is empty (@lua/autorun/luarun.lua (line 248))
+  1. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/luarun.lua:248: Module not found!
+  1. require - [C]:-1
+   2. unknown - lua/autorun/luarun.lua:248
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/client/legs_cl.lua:305: attempt to call global 'hook' (a table value)
+  1. unknown - lua/autorun/client/legs_cl.lua:305
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/autorun/sh_drp_sup.lua:158: attempt to index global 'rp' (a nil value)
+  1. unknown - lua/autorun/sh_drp_sup.lua:158
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview.lua:447: attempt to call method 'OnRowSelected' (a nil value)
+  1. OnClickLine - lua/vgui/dlistview.lua:447
+   2. unknown - lua/vgui/dlistview_line.lua:81
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview.lua:447: attempt to call method 'OnRowSelected' (a nil value)
+  1. OnClickLine - lua/vgui/dlistview.lua:447
+   2. unknown - lua/vgui/dlistview_line.lua:81
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview.lua:447: attempt to call method 'OnRowSelected' (a nil value)
+  1. OnClickLine - lua/vgui/dlistview.lua:447
+   2. unknown - lua/vgui/dlistview_line.lua:81
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview_line.lua:74: attempt to call method 'OnRowRightClick' (a nil value)
+  1. unknown - lua/vgui/dlistview_line.lua:74
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/vgui/dlistview_line.lua:74: attempt to call method 'OnRowRightClick' (a nil value)
+  1. unknown - lua/vgui/dlistview_line.lua:74
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:83: attempt to index global 'GM' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:83
+   2. include - [C]:-1
+    3. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+     4. unknown - gamemodes/ixhl2rp/plugins/cameramenu/sh_plugin.lua:5
+      5. include - [C]:-1
+       6. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+        7. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+         8. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+          9. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+           10. unknown - gamemodes/helix/gamemode/shared.lua:102
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:110
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:192
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:110
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:192
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'ixhl2rp\schema\languages\sh_russian.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 48))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+   2. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_language.lua:10
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:42
+     4. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+      5. Call - gamemodes/helix/gamemode/shared.lua:141
+       6. unknown - lua/includes/modules/gamemode.lua:33
+        7. DeriveGamemode - [C]:-1
+         8. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59: attempt to index field 'bars' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/derma/cl_combinedisplay.lua:59
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] LuaCmd:1: malformed number near '1.lua'
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:71: ')' expected near '<eof>'
+  1. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:26: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - lua/weapons/gmod_tool/stools/rehabzone.lua:26
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+       6. include - [C]:-1
+        7. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:26: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - lua/weapons/gmod_tool/stools/rehabzone.lua:26
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+       6. include - [C]:-1
+        7. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:26: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - lua/weapons/gmod_tool/stools/rehabzone.lua:26
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+       6. include - [C]:-1
+        7. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:26: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - lua/weapons/gmod_tool/stools/rehabzone.lua:26
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+       6. include - [C]:-1
+        7. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:26: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - lua/weapons/gmod_tool/stools/rehabzone.lua:26
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+       6. include - [C]:-1
+        7. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:26: attempt to call field 'AddNetworkString' (a nil value)
+  1. unknown - lua/weapons/gmod_tool/stools/rehabzone.lua:26
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+       6. include - [C]:-1
+        7. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'cl_plugin.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 54))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/sh_plugin.lua:5
+    3. include - [C]:-1
+     4. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+         8. Call - gamemodes/helix/gamemode/shared.lua:141
+          9. unknown - lua/includes/modules/gamemode.lua:33
+           10. DeriveGamemode - [C]:-1
+            11. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'cl_plugin.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 54))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/sh_plugin.lua:5
+    3. include - [C]:-1
+     4. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+         8. Call - gamemodes/helix/gamemode/shared.lua:141
+          9. unknown - lua/includes/modules/gamemode.lua:33
+           10. DeriveGamemode - [C]:-1
+            11. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:31: attempt to index global 'PLUGIN' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:31
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:31: attempt to index global 'PLUGIN' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:31
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:31: attempt to index global 'PLUGIN' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:31
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:31: attempt to index global 'PLUGIN' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:31
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:31: attempt to index global 'PLUGIN' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:31
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:103: '<eof>' expected near 'end'
+  1. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:103: '<eof>' expected near 'end'
+  1. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/stool.lua:160
+   2. include - [C]:-1
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:394
+     4. include - [C]:-1
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/cl_init.lua:17
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:125: attempt to call global 'SaveZones' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:125
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:125: attempt to call global 'SaveZones' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:125
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:123: attempt to call global 'SaveZones' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:123
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] lua/weapons/gmod_tool/stools/rehabzone.lua:123: attempt to call global 'SaveZones' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/rehabzone.lua:123
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:272
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Couldn't include file 'cl_plugin.lua' - File not found or is empty (@gamemodes/helix/gamemode/core/sh_util.lua (line 54))
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/sh_plugin.lua:8
+    3. include - [C]:-1
+     4. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+         8. Call - gamemodes/helix/gamemode/shared.lua:141
+          9. unknown - lua/includes/modules/gamemode.lua:33
+           10. DeriveGamemode - [C]:-1
+            11. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:133: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:133
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:23: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:23
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|4|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:111: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:111
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:111: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:111
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:118: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:118
+    3. include - [C]:-1
+     4. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+      5. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/sh_plugin.lua:5
+       6. include - [C]:-1
+        7. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+         8. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+          9. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+           10. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+            11. Call - gamemodes/helix/gamemode/shared.lua:141
+             12. unknown - lua/includes/modules/gamemode.lua:33
+              13. DeriveGamemode - [C]:-1
+               14. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:118: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:118
+    3. include - [C]:-1
+     4. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+      5. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/sh_plugin.lua:5
+       6. include - [C]:-1
+        7. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+         8. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+          9. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+           10. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+            11. Call - gamemodes/helix/gamemode/shared.lua:141
+             12. unknown - lua/includes/modules/gamemode.lua:33
+              13. DeriveGamemode - [C]:-1
+               14. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:230: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:230
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:231: attempt to call field 'Send' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:231
+   2. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] Warning! A net message (ixRequestRehabZones) is already started! Discarding in favor of the new message! (NetStreamDS)
+  1. Start - gamemodes/ixhl2rp/schema/libs/thirdparty/sh_netstream2.lua:135
+   2. unknown - gamemodes/ixhl2rp/schema/cl_hooks.lua:44
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:490
+     4. SetActive - gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:844
+      5. Init - gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:777
+       6. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+        7. CreateChat - gamemodes/helix/plugins/chatbox/sh_plugin.lua:52
+         8. unknown - gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:1233
+          9. include - [C]:-1
+           10. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+            11. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:74
+             12. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+              13. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+               14. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:253
+                15. Call - gamemodes/helix/gamemode/shared.lua:141
+                 16. unknown - lua/includes/modules/gamemode.lua:33
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:230: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:230
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|3|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:228: Calling net.Start with unpooled message name! (Did you forget to call util.AddNetworkString serverside?)
+  1. Start - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/plugins/rehab_zone/cl_plugin.lua:228
+    3. unknown - lua/includes/modules/concommand.lua:54
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. DrawActiveZones - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237
+    3. v - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:244
+     4. unknown - lua/includes/modules/hook.lua:102
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. DrawActiveZones - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237
+    3. v - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:244
+     4. unknown - lua/includes/modules/hook.lua:102
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. DrawActiveZones - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237
+    3. v - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:244
+     4. unknown - lua/includes/modules/hook.lua:102
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. DrawActiveZones - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237
+    3. v - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:244
+     4. unknown - lua/includes/modules/hook.lua:102
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. DrawActiveZones - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:237
+    3. v - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:244
+     4. unknown - lua/includes/modules/hook.lua:102
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Reload - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:305
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Reload - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:305
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Reload - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:305
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Reload - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:305
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Reload - addons/advanced zone manager/lua/weapons/gmod_tool/stools/zone_manager.lua:110
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:305
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[discretemessages-master] language.Add expects string as second argument!
+  1. RegisterMessage - addons/discretemessages-master/lua/discretemessages/client/cl_messages.lua:17
+   2. unknown - addons/discretemessages-master/lua/discretemessages/client/messages/_base.lua:148
+    3. include - [C]:-1
+     4. v - addons/discretemessages-master/lua/autorun/discretemessagesload.lua:57
+      5. Call - lua/includes/modules/hook.lua:102
+       6. unknown - addons/discreteui-master/lua/autorun/sh_discreteload.lua:56
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[discretemessages-master] language.Add expects string as second argument!
+  1. RegisterMessage - addons/discretemessages-master/lua/discretemessages/client/cl_messages.lua:17
+   2. unknown - addons/discretemessages-master/lua/discretemessages/client/messages/message_chatprint.lua:21
+    3. include - [C]:-1
+     4. v - addons/discretemessages-master/lua/autorun/discretemessagesload.lua:57
+      5. Call - lua/includes/modules/hook.lua:102
+       6. unknown - addons/discreteui-master/lua/autorun/sh_discreteload.lua:56
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[discretemessages-master] language.Add expects string as second argument!
+  1. RegisterMessage - addons/discretemessages-master/lua/discretemessages/client/cl_messages.lua:17
+   2. unknown - addons/discretemessages-master/lua/discretemessages/client/messages/message_welcome.lua:29
+    3. include - [C]:-1
+     4. v - addons/discretemessages-master/lua/autorun/discretemessagesload.lua:57
+      5. Call - lua/includes/modules/hook.lua:102
+       6. unknown - addons/discreteui-master/lua/autorun/sh_discreteload.lua:56
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] net.ReadData: Invalid length 71897!
+  1. func - addons/advanced zone manager/lua/discretezones/client/cl_networking.lua:81
+   2. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] addons/advanced zone manager/lua/discretezones/client/cl_networking.lua:84: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. func - addons/advanced zone manager/lua/discretezones/client/cl_networking.lua:84
+    3. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[advanced zone manager] net.ReadData: Invalid length 71871!
+  1. func - addons/advanced zone manager/lua/discretezones/client/cl_networking.lua:95
+   2. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[discretemessages-master] language.Add expects string as second argument!
+  1. RegisterMessage - addons/discretemessages-master/lua/discretemessages/client/cl_messages.lua:17
+   2. unknown - addons/discretemessages-master/lua/discretemessages/client/messages/_base.lua:148
+    3. include - [C]:-1
+     4. v - addons/discretemessages-master/lua/autorun/discretemessagesload.lua:57
+      5. Call - lua/includes/modules/hook.lua:102
+       6. unknown - addons/discreteui-master/lua/autorun/sh_discreteload.lua:56
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[discretemessages-master] language.Add expects string as second argument!
+  1. RegisterMessage - addons/discretemessages-master/lua/discretemessages/client/cl_messages.lua:17
+   2. unknown - addons/discretemessages-master/lua/discretemessages/client/messages/message_chatprint.lua:21
+    3. include - [C]:-1
+     4. v - addons/discretemessages-master/lua/autorun/discretemessagesload.lua:57
+      5. Call - lua/includes/modules/hook.lua:102
+       6. unknown - addons/discreteui-master/lua/autorun/sh_discreteload.lua:56
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:70
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:178
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:178
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:70
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:178
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:178
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:68
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:162
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:69: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:69
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:162
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:70
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:166
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:166
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:70
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:166
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:71
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:166
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/helix/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:75: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:75
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:163
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_anims.lua:363: 'female' is not a valid animation class!
+  1. error - [C]:-1
+   2. SetModelClass - gamemodes/helix/gamemode/core/libs/sh_anims.lua:363
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_anims.lua:419
+     4. Include - [C]:-1
+      5. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+       6. unknown - gamemodes/helix/gamemode/shared.lua:94
+        7. include - [C]:-1
+         8. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/improvedvoicecommands/cl_plugin.lua:3: attempt to index global 'netstream' (a nil value)
+  1. unknown - gamemodes/helix/plugins/improvedvoicecommands/cl_plugin.lua:3
+   2. Include - [C]:-1
+    3. unknown - gamemodes/helix/plugins/improvedvoicecommands/sh_plugin.lua:25
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+         8. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/vortigaunt_stuff/sh_voices.lua:2: attempt to index global 'Schema' (a nil value)
+  1. unknown - gamemodes/helix/plugins/vortigaunt_stuff/sh_voices.lua:2
+   2. Include - [C]:-1
+    3. unknown - gamemodes/helix/plugins/vortigaunt_stuff/sh_plugin.lua:5
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+         8. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/willardclothing/items/bgclothes/sh_legs_blue_padded_pants.lua:10: malformed number near '3й'
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:205
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:115
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:273
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+        7. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/willardclothing/items/bgclothes/sh_legs_grey_pants.lua:9: unexpected symbol near '='
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:205
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:115
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:273
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+        7. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_anims.lua:363: 'female' is not a valid animation class!
+  1. error - [C]:-1
+   2. SetModelClass - gamemodes/helix/gamemode/core/libs/sh_anims.lua:363
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_anims.lua:419
+     4. Include - [C]:-1
+      5. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+       6. unknown - gamemodes/helix/gamemode/shared.lua:94
+        7. include - [C]:-1
+         8. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/improvedvoicecommands/cl_plugin.lua:3: attempt to index global 'netstream' (a nil value)
+  1. unknown - gamemodes/helix/plugins/improvedvoicecommands/cl_plugin.lua:3
+   2. Include - [C]:-1
+    3. unknown - gamemodes/helix/plugins/improvedvoicecommands/sh_plugin.lua:25
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+         8. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/vortigaunt_stuff/sh_voices.lua:2: attempt to index global 'Schema' (a nil value)
+  1. unknown - gamemodes/helix/plugins/vortigaunt_stuff/sh_voices.lua:2
+   2. Include - [C]:-1
+    3. unknown - gamemodes/helix/plugins/vortigaunt_stuff/sh_plugin.lua:5
+     4. Include - [C]:-1
+      5. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+       6. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+        7. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+         8. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/willardclothing/items/bgclothes/sh_legs_blue_padded_pants.lua:10: malformed number near '3й'
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:205
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:115
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:273
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+        7. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/willardclothing/items/bgclothes/sh_legs_grey_pants.lua:9: unexpected symbol near '='
+  1. Register - gamemodes/helix/gamemode/core/libs/sh_item.lua:205
+   2. Load - gamemodes/helix/gamemode/core/libs/sh_item.lua:115
+    3. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_item.lua:273
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:47
+      5. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:266
+       6. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:249
+        7. unknown - gamemodes/helix/gamemode/shared.lua:105
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[collision_control] stack overflow
+  1. GetTable - [C]:-1
+   2. __index - lua/includes/extensions/player.lua:28
+    3. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:147
+     4. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+      5. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+       6. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+        7. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+         8. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+          9. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+           10. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+            11. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+             12. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+              13. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+               14. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                15. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                 16. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[collision_control] stack overflow
+  1. GetTable - [C]:-1
+   2. __index - lua/includes/extensions/player.lua:28
+    3. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:147
+     4. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+      5. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+       6. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+        7. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+         8. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+          9. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+           10. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+            11. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+             12. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+              13. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+               14. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                15. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                 16. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[collision_control] stack overflow
+  1. GetTable - [C]:-1
+   2. __index - lua/includes/extensions/player.lua:28
+    3. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:147
+     4. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+      5. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+       6. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+        7. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+         8. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+          9. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+           10. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+            11. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+             12. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+              13. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+               14. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                15. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                 16. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[collision_control] stack overflow
+  1. GetTable - [C]:-1
+   2. __index - lua/includes/extensions/player.lua:28
+    3. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:147
+     4. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+      5. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+       6. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+        7. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+         8. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+          9. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+           10. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+            11. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+             12. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+              13. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+               14. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                15. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                 16. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[collision_control] stack overflow
+  1. GetTable - [C]:-1
+   2. __index - lua/includes/extensions/player.lua:28
+    3. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:147
+     4. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+      5. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+       6. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+        7. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+         8. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+          9. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+           10. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+            11. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+             12. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+              13. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+               14. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                15. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+                 16. StuckPrimaryAttack - addons/collision_control/lua/autorun/client/cl_playerunstuck.lua:151
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_anims.lua:363: 'female' is not a valid animation class!
+  1. error - [C]:-1
+   2. SetModelClass - gamemodes/helix/gamemode/core/libs/sh_anims.lua:363
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_anims.lua:419
+     4. Include - [C]:-1
+      5. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:85
+       6. unknown - gamemodes/helix/gamemode/shared.lua:94
+        7. include - [C]:-1
+         8. unknown - gamemodes/helix/gamemode/cl_init.lua:41
+          9. DeriveGamemode - [C]:-1
+           10. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|5|STEAM_0:0:130559552
+
+[ERROR] lua/includes/extensions/client/panel.lua:592: Tried to use a NULL Panel!
+  1. GetChildren - [C]:-1
+   2. Clear - lua/includes/extensions/client/panel.lua:592
+    3. RefreshList - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:125
+     4. func - gamemodes/ixhl2rp/plugins/cameramenu/cl_plugin.lua:207
+      5. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:174: 'end' expected (to close 'function' at line 168) near '<eof>'
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+   2. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:74
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+       6. Call - gamemodes/helix/gamemode/shared.lua:141
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] vgui.Create failed to create the VGUI component (ixIconTextEntry)
+  1. Add - lua/includes/extensions/client/panel.lua:509
+   2. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:73
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+     4. Add - lua/includes/extensions/client/panel.lua:509
+      5. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+       6. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+        7. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+         8. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+          9. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74: attempt to index field 'search' (a nil value)
+  1. Init - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:74
+   2. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+    3. Add - lua/includes/extensions/client/panel.lua:509
+     4. info - gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:165
+      5. TransitionSubpanel - gamemodes/helix/gamemode/core/derma/cl_menu.lua:105
+       6. OnSelected - gamemodes/helix/gamemode/core/derma/cl_menu.lua:261
+        7. SetSelected - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:152
+         8. unknown - gamemodes/helix/gamemode/core/derma/cl_menubutton.lua:171
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/plugins/ixcraft/derma/cl_crafting.lua:174: 'end' expected (to close 'function' at line 168) near '<eof>'
+  1. Include - gamemodes/helix/gamemode/core/sh_util.lua:54
+   2. IncludeDir - gamemodes/helix/gamemode/core/sh_util.lua:74
+    3. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:49
+     4. LoadFromDir - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:270
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:258
+       6. Call - gamemodes/helix/gamemode/shared.lua:141
+        7. unknown - lua/includes/modules/gamemode.lua:33
+         8. DeriveGamemode - [C]:-1
+          9. unknown - gamemodes/ixhl2rp/gamemode/cl_init.lua:2
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[[ARC9] Gunsmith Reloaded] Broke possible Lua Effect creation infinite loop! (effect 'csgo_taser_tracer') Check your code!
+  1. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+   2. ParticleTracerEx - [C]:-1
+    3. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+     4. ParticleTracerEx - [C]:-1
+      5. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+       6. ParticleTracerEx - [C]:-1
+        7. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+         8. ParticleTracerEx - [C]:-1
+          9. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+           10. ParticleTracerEx - [C]:-1
+            11. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+             12. ParticleTracerEx - [C]:-1
+              13. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+               14. ParticleTracerEx - [C]:-1
+                15. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+                 16. ParticleTracerEx - [C]:-1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[[ARC9] Gunsmith Reloaded] Broke possible Lua Effect creation infinite loop! (effect 'csgo_taser_tracer') Check your code!
+  1. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+   2. ParticleTracerEx - [C]:-1
+    3. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+     4. ParticleTracerEx - [C]:-1
+      5. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+       6. ParticleTracerEx - [C]:-1
+        7. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+         8. ParticleTracerEx - [C]:-1
+          9. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+           10. ParticleTracerEx - [C]:-1
+            11. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+             12. ParticleTracerEx - [C]:-1
+              13. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+               14. ParticleTracerEx - [C]:-1
+                15. unknown - lua/effects/csgo_taser_tracer/init.lua:13
+                 16. ParticleTracerEx - [C]:-1
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:487: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:487
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:799: attempt to call method 'CreateAnimation' (a nil value)
+  1. SetAlpha - gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:799
+   2. SetActive - gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:833
+    3. Init - gamemodes/helix/plugins/chatbox/derma/cl_chatbox.lua:777
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+      5. CreateChat - gamemodes/helix/plugins/chatbox/sh_plugin.lua:52
+       6. v - gamemodes/helix/plugins/chatbox/sh_plugin.lua:85
+        7. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:481
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:487: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:487
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:487: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:487
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_character.lua:487: attempt to perform arithmetic on field 'currentAlpha' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/derma/cl_character.lua:487
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/helix/gamemode/core/derma/cl_charload.lua:261: attempt to call method 'CreateAnimation' (a nil value)
+  1. OnSetActive - gamemodes/helix/gamemode/core/derma/cl_charload.lua:261
+   2. SetActiveSubpanel - gamemodes/helix/gamemode/core/derma/cl_subpanel.lua:210
+    3. Init - gamemodes/helix/gamemode/core/derma/cl_charload.lua:391
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+      5. Add - lua/includes/extensions/client/panel.lua:509
+       6. Init - gamemodes/helix/gamemode/core/derma/cl_character.lua:329
+        7. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:41
+         8. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:933
+          9. unknown - lua/includes/extensions/net.lua:34
+
+
+
+180 50|2|STEAM_0:0:130559552
+
+[ERROR] gamemodes/ixhl2rp/schema/sh_schema.lua:26: attempt to index field 'anim' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sh_schema.lua:26
+   2. include - [C]:-1
+    3. Include - gamemodes/helix/gamemode/core/sh_util.lua:48
+     4. Load - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:55
+      5. Initialize - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:255
+       6. unknown - gamemodes/helix/gamemode/shared.lua:102
+
+
+
+180 50|17|STEAM_0:0:130559552
+
+[FancyErrors] lua/autorun/client/cl_fancyerrors.lua:209: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. unknown - lua/autorun/client/cl_fancyerrors.lua:209
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[wos_dynabase_dynamic_animation_manager_2916561591] addons/wos_dynabase_dynamic_animation_manager_2916561591/lua/wos/dynabase/core/sh_mounting.lua:144: attempt to index local 'mdl_file' (a nil value)
+  1. WRITE_TO_POINTER - addons/wos_dynabase_dynamic_animation_manager_2916561591/lua/wos/dynabase/core/sh_mounting.lua:144
+   2. ReloadAnimations - addons/wos_dynabase_dynamic_animation_manager_2916561591/lua/wos/dynabase/core/sh_mounting.lua:307
+    3. InitializeBase - addons/wos_dynabase_dynamic_animation_manager_2916561591/lua/wos/dynabase/core/sh_core.lua:57
+     4. v - addons/wos_dynabase_dynamic_animation_manager_2916561591/lua/wos/dynabase/core/sh_core.lua:106
+      5. unknown - lua/includes/modules/hook.lua:102
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[ARC9 Weapon Base] lua/effects/arc9_tracer.lua:88: attempt to perform arithmetic on field 'Dir' (a nil value)
+  1. unknown - lua/effects/arc9_tracer.lua:88
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[ARC9 Weapon Base] lua/effects/arc9_tracer.lua:88: attempt to perform arithmetic on field 'Dir' (a nil value)
+  1. unknown - lua/effects/arc9_tracer.lua:88
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[ARC9 Weapon Base] lua/effects/arc9_tracer.lua:88: attempt to perform arithmetic on field 'Dir' (a nil value)
+  1. unknown - lua/effects/arc9_tracer.lua:88
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[ARC9 Weapon Base] lua/effects/arc9_tracer.lua:88: attempt to perform arithmetic on field 'Dir' (a nil value)
+  1. unknown - lua/effects/arc9_tracer.lua:88
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[ARC9 Weapon Base] lua/effects/arc9_tracer.lua:88: attempt to perform arithmetic on field 'Dir' (a nil value)
+  1. unknown - lua/effects/arc9_tracer.lua:88
+
+
+
+APEX PREDATOR|2|STEAM_0:0:95414622
+
+[ARC9 Weapon Base] lua/effects/arc9_tracer.lua:88: attempt to perform arithmetic on field 'Dir' (a nil value)
+  1. unknown - lua/effects/arc9_tracer.lua:88
+
+
+

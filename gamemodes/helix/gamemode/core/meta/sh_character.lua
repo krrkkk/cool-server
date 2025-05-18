@@ -1,0 +1,309 @@
+
+-- Create the character metatable.
+local CHAR = ix.meta.character or {}
+CHAR.__index = CHAR
+CHAR.id = CHAR.id or 0
+CHAR.vars = CHAR.vars or {}
+
+-- TODO: not this
+if (!ix.db) then
+	ix.util.Include("../libs/sv_database.lua")
+end
+
+-- Called when the character is being printed as a string.
+function CHAR:__tostring()
+	return "character["..(self.id or 0).."]"
+end
+
+-- Checks if two character objects represent the same character.
+function CHAR:__eq(other)
+	return self:GetID() == other:GetID()
+end
+
+-- Returns the character index from the database.
+function CHAR:GetID()
+	return self.id
+end
+
+if (SERVER) then
+	-- Saves the character to the database and calls the callback if provided.
+	function CHAR:Save(callback)
+		-- Do not save if the character is for a bot.
+		if (self.isBot) then
+			return
+		end
+
+		-- Let plugins/schema determine if the character should be saved.
+		local shouldSave = hook.Run("CharacterPreSave", self)
+
+		if (shouldSave != false) then
+			-- Run a query to save the character to the database.
+			local query = mysql:Update("ix_characters")
+				-- update all character vars
+				for k, v in pairs(ix.char.vars) do
+					if (v.field and self.vars[k] != nil and !v.bSaveLoadInitialOnly) then
+						local value = self.vars[k]
+
+						query:Update(v.field, istable(value) and util.TableToJSON(value) or tostring(value))
+					end
+				end
+
+				query:Where("id", self:GetID())
+				query:Callback(function()
+					if (callback) then
+						callback()
+					end
+
+					hook.Run("CharacterPostSave", self)
+				end)
+			query:Execute()
+		end
+	end
+
+	-- Sends character information to the receiver.
+	function CHAR:Sync(receiver)
+		-- Broadcast the character information if receiver is not set.
+		if (receiver == nil) then
+			for _, v in ipairs(player.GetAll()) do
+				self:Sync(v)
+			end
+		-- Send all character information if the receiver is the character's owner.
+		elseif (receiver == self.player) then
+			local data = {}
+
+			for k, v in pairs(self.vars) do
+				if (ix.char.vars[k] != nil and !ix.char.vars[k].bNoNetworking) then
+					data[k] = v
+				end
+			end
+
+			net.Start("ixCharacterInfo")
+				net.WriteTable(data)
+				net.WriteUInt(self:GetID(), 32)
+				net.WriteEntity(self.player)
+			net.Send(self.player)
+		else
+			local data = {}
+
+			for k, v in pairs(ix.char.vars) do
+				if (!v.bNoNetworking and !v.isLocal) then
+					data[k] = self.vars[k]
+				end
+			end
+
+			net.Start("ixCharacterInfo")
+				net.WriteTable(data)
+				net.WriteUInt(self:GetID(), 32)
+				net.WriteEntity(self.player)
+			net.Send(receiver)
+		end
+	end
+
+	-- Sets up the "appearance" related inforomation for the character.
+	function CHAR:Setup(bNoNetworking)
+		local client = self:GetPlayer()
+
+		if (IsValid(client)) then
+			-- Set the faction, model, and character index for the player.
+			local model = self:GetModel()
+
+			client:SetNetVar("char", self:GetID())
+			client:SetTeam(self:GetFaction())
+			client:SetModel(istable(model) and model[1] or model)
+
+			-- Apply saved body groups.
+			for k, v in pairs(self:GetData("groups", {})) do
+				client:SetBodygroup(k, v)
+			end
+
+			-- Apply a saved skin.
+			client:SetSkin(self:GetData("skin", 0))
+
+			-- Synchronize the character if we should.`
+			if (!bNoNetworking) then
+				if (client:IsBot()) then
+					timer.Simple(0.33, function()
+						self:Sync()
+					end)
+				else
+					self:Sync()
+				end
+
+				for _, v in ipairs(self:GetInventory(true)) do
+					if (type(v) == "table") then
+						v:AddReceiver(client)
+						v:Sync(client)
+					end
+				end
+			end
+
+			local id = self:GetID()
+
+			hook.Run("CharacterLoaded", ix.char.loaded[id])
+
+			net.Start("ixCharacterLoaded")
+				net.WriteUInt(id, 32)
+			net.Send(client)
+
+			self.firstTimeLoaded = true
+		end
+	end
+
+	-- Forces the player to choose a character.
+	function CHAR:Kick()
+		-- Kill the player so they are not standing anywhere.
+		local client = self:GetPlayer()
+		client:KillSilent()
+
+		local steamID = client:SteamID64()
+		local id = self:GetID()
+		local isCurrentChar = self and self:GetID() == id
+
+		-- Return the player to the character menu.
+		if (self and self.steamID == steamID) then
+			net.Start("ixCharacterKick")
+				net.WriteBool(isCurrentChar)
+			net.Send(client)
+
+			if (isCurrentChar) then
+				client:SetNetVar("char", nil)
+				client:Spawn()
+			end
+		end
+	end
+
+	-- Prevents the use of this character permanently or for a certain amount of time.
+	function CHAR:Ban(time)
+		time = tonumber(time)
+
+		if (time) then
+			-- If time is provided, adjust it so it becomes the un-ban time.
+			time = os.time() + math.max(math.ceil(time), 60)
+		end
+
+		-- Mark the character as banned and kick the character back to menu.
+		self:SetData("banned", time or true)
+		self:Kick()
+	end
+end
+
+-- Returns which player owns this character.
+function CHAR:GetPlayer()
+	-- Return the player from cache.
+	if (IsValid(self.player)) then
+		return self.player
+	-- Search for which player owns this character.
+	elseif (self.steamID) then
+		local steamID = self.steamID
+
+		for _, v in ipairs(player.GetAll()) do
+			if (v:SteamID64() == steamID) then
+				self.player = v
+
+				return v
+			end
+		end
+	end
+end
+
+-- Sets up a new character variable.
+function ix.char.RegisterVar(key, data)
+	-- Store information for the variable.
+	ix.char.vars[key] = data
+	data.index = data.index or table.Count(ix.char.vars)
+
+	local upperName = key:sub(1, 1):upper() .. key:sub(2)
+
+	if (SERVER) then
+		if (data.field) then
+			ix.db.AddToSchema("ix_characters", data.field, data.fieldType or ix.type.string)
+		end
+
+		-- Provide functions to change the variable if allowed.
+		if (!data.bNotModifiable) then
+			-- Overwrite the set function if desired.
+			if (data.OnSet) then
+				CHAR["Set"..upperName] = data.OnSet
+			-- Have the set function only set on the server if no networking.
+			elseif (data.bNoNetworking) then
+				CHAR["Set"..upperName] = function(self, value)
+					self.vars[key] = value
+				end
+			-- If the variable is a local one, only send the variable to the local player.
+			elseif (data.isLocal) then
+				CHAR["Set"..upperName] = function(self, value)
+					local oldVar = self.vars[key]
+					self.vars[key] = value
+
+					net.Start("ixCharacterVarChanged")
+						net.WriteUInt(self:GetID(), 32)
+						net.WriteString(key)
+						net.WriteType(value)
+					net.Send(self.player)
+
+					hook.Run("CharacterVarChanged", self, key, oldVar, value)
+				end
+			-- Otherwise network the variable to everyone.
+			else
+				CHAR["Set"..upperName] = function(self, value)
+					local oldVar = self.vars[key]
+					self.vars[key] = value
+
+					net.Start("ixCharacterVarChanged")
+						net.WriteUInt(self:GetID(), 32)
+						net.WriteString(key)
+						net.WriteType(value)
+					net.Broadcast()
+
+					hook.Run("CharacterVarChanged", self, key, oldVar, value)
+				end
+			end
+		end
+	end
+
+	-- The get functions are shared.
+	-- Overwrite the get function if desired.
+	if (data.OnGet) then
+		CHAR["Get"..upperName] = data.OnGet
+	-- Otherwise return the character variable or default if it does not exist.
+	else
+		CHAR["Get"..upperName] = function(self, default)
+			local value = self.vars[key]
+
+			if (value != nil) then
+				return value
+			end
+
+			if (default == nil) then
+				return ix.char.vars[key] and (istable(ix.char.vars[key].default) and table.Copy(ix.char.vars[key].default)
+					or ix.char.vars[key].default) or nil
+			end
+
+			return default
+		end
+	end
+
+	local alias = data.alias
+
+	if (alias) then
+		if (istable(alias)) then
+			for _, v in ipairs(alias) do
+				local aliasName = v:sub(1, 1):upper()..v:sub(2)
+
+				CHAR["Get"..aliasName] = CHAR["Get"..upperName]
+				CHAR["Set"..aliasName] = CHAR["Set"..upperName]
+			end
+		elseif (isstring(alias)) then
+			local aliasName = alias:sub(1, 1):upper()..alias:sub(2)
+
+			CHAR["Get"..aliasName] = CHAR["Get"..upperName]
+			CHAR["Set"..aliasName] = CHAR["Set"..upperName]
+		end
+	end
+
+	-- Add the variable default to the character object.
+	CHAR.vars[key] = data.default
+end
+
+-- Allows access to the character metatable using ix.meta.character
+ix.meta.character = CHAR

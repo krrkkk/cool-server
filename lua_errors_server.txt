@@ -1,0 +1,737 @@
+
+[lib_plibv2] lua/autorun/server/sv_triggers.lua:24: attempt to index local 'spawns' (a nil value)
+  1. v - lua/autorun/server/sv_triggers.lua:24
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. LoadPlayer - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:11
+    3. v - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:66
+     4. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:321: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:321
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100: attempt to index field 'Handle' (a boolean value)
+  1. Escape - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:138
+    3. gsub - [C]:-1
+     4. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:136
+      5. v - addons/system_models/lua/models/server/sv_init.lua:139
+       6. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+        7. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:354
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8: attempt to index a nil value
+  1. IsMayor - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:410
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. CreateMoneyColumn - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:16
+    3. unknown - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:29
+
+
+[system_admin] addons/system_admin/lua/ba/modules/darkrp/bans/bans_sv.lua:75: attempt to call field 'IsBanned' (a nil value)
+  1. v - addons/system_admin/lua/ba/modules/darkrp/bans/bans_sv.lua:75
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[system_admin] addons/system_admin/lua/ba/core/bans_sv.lua:18: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/system_admin/lua/ba/core/bans_sv.lua:18
+
+
+[system_admin] addons/system_admin/lua/ba/core/ranks/groups_sv.lua:37: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/system_admin/lua/ba/core/ranks/groups_sv.lua:37
+
+
+[system_inventory] addons/system_inventory/lua/itemstore/dataproviders/tmysql4.lua:24: attempt to index local 'PROVIDER' (a nil value)
+  1. unknown - addons/system_inventory/lua/itemstore/dataproviders/tmysql4.lua:24
+
+
+[lib_plibv2] AddCSLuaFile: Couldn't find 'darkrp/gamemode/cfg/doors/gm_construct.lua'
+  1. IncludeSH - addons/lib_plibv2/lua/plib/init.lua:17
+   2. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+    3. include - [C]:-1
+     4. unknown - gamemodes/darkrp/gamemode/init.lua:9
+
+
+[ERROR] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/init.lua:9
+
+Corrupt Entity "Горшок": element model is corrupt.
+Corrupt Entity "Плита": element model is corrupt.
+Corrupt shipment "Пистолет TT": element model is corrupt.
+Corrupt shipment "Пистолет Макаров": element model is corrupt.
+Corrupt shipment "MP-443 Грач": element model is corrupt.
+Corrupt shipment "GSH-18": element model is corrupt.
+Corrupt shipment "M416-Rex": element model is corrupt.
+Corrupt shipment "AKS-74U": element model is corrupt.
+Corrupt shipment "PP1901 Витязь": element model is corrupt.
+Corrupt shipment "Vikhr": element model is corrupt.
+Corrupt shipment "AK-74": element model is corrupt.
+Corrupt shipment "AK-12": element model is corrupt.
+Corrupt shipment "AKM": element model is corrupt.
+Corrupt shipment "AS-VAL": element model is corrupt.
+Corrupt shipment "SVD Dragunov": element model is corrupt.
+Corrupt shipment "SVT": element model is corrupt.
+Corrupt shipment "VSS (Прицел)": element model is corrupt.
+Corrupt shipment "ПКМ": element model is corrupt.
+Corrupt shipment "PKP Печенег": element model is corrupt.
+Corrupt shipment "Saiga 20K": element model is corrupt.
+Corrupt shipment "SV-98": element model is corrupt.
+Corrupt shipment "Щиты": element model is corrupt.
+Corrupt shipment "Грушовый сок": element model is corrupt.
+Corrupt shipment "HQD яблоко": element model is corrupt.
+Corrupt shipment "HQD черника": element model is corrupt.
+Corrupt shipment "HQD виноград": element model is corrupt.
+Corrupt shipment "HQD лёд-манго": element model is corrupt.
+Corrupt shipment "HQD ананас": element model is corrupt.
+Corrupt shipment "Вода": element model is corrupt.
+Corrupt shipment "Трава": element model is corrupt.
+Corrupt shipment "Героин": element model is corrupt.
+Corrupt shipment "Сигареты": element model is corrupt.
+Corrupt shipment "ЛСД": element model is corrupt.
+Corrupt shipment "Грибы": element model is corrupt.
+Corrupt shipment "Кокаин": element model is corrupt.
+Corrupt shipment "Синий мет": element model is corrupt.
+Corrupt Entity "Дизель 20 литров": element model is corrupt.
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. CreateMoneyColumn - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:16
+    3. unknown - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:29
+
+
+[lib_plibv2] lua/autorun/server/sv_triggers.lua:24: attempt to index local 'spawns' (a nil value)
+  1. v - lua/autorun/server/sv_triggers.lua:24
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. LoadPlayer - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:11
+    3. v - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:66
+     4. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:321: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:321
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100: attempt to index field 'Handle' (a boolean value)
+  1. Escape - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:138
+    3. gsub - [C]:-1
+     4. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:136
+      5. v - addons/system_models/lua/models/server/sv_init.lua:139
+       6. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+        7. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:354
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8: attempt to index a nil value
+  1. IsMayor - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:410
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. CreateMoneyColumn - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:16
+    3. unknown - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:29
+
+
+[system_admin] addons/system_admin/lua/ba/modules/darkrp/bans/bans_sv.lua:75: attempt to call field 'IsBanned' (a nil value)
+  1. v - addons/system_admin/lua/ba/modules/darkrp/bans/bans_sv.lua:75
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. LoadPlayer - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:11
+    3. v - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:66
+     4. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:321: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:321
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100: attempt to index field 'Handle' (a boolean value)
+  1. Escape - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:138
+    3. gsub - [C]:-1
+     4. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:136
+      5. v - addons/system_models/lua/models/server/sv_init.lua:139
+       6. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+        7. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:354
+
+
+[system_admin] addons/system_admin/lua/ba/core/data_sv.lua:47: attempt to index upvalue 'db' (a nil value)
+  1. LoadPlayer - addons/system_admin/lua/ba/core/data_sv.lua:47
+   2. v - addons/system_admin/lua/ba/core/ranks/groups_sv.lua:19
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[system_admin] addons/system_admin/lua/ba/core/logging/logs_sv.lua:115: attempt to index upvalue 'db' (a nil value)
+  1. func - addons/system_admin/lua/ba/core/logging/logs_sv.lua:115
+   2. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[system_inventory] addons/system_inventory/lua/itemstore/sv_player.lua:418: attempt to index field 'Inventory' (a nil value)
+  1. func - addons/system_inventory/lua/itemstore/sv_player.lua:418
+   2. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. v - addons/addition_donate/lua/autorun/server/donates_sv.lua:155
+    3. Run - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+     4. v - addons/addition_donate/lua/autorun/server/donates_sv.lua:18
+      5. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[system_inventory] addons/system_inventory/lua/itemstore/sv_player.lua:418: attempt to index field 'Inventory' (a nil value)
+  1. func - addons/system_inventory/lua/itemstore/sv_player.lua:418
+   2. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[system_admin] addons/system_admin/lua/ba/core/bans_sv.lua:18: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/system_admin/lua/ba/core/bans_sv.lua:18
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[eui] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16: attempt to index a nil value
+  1. IsCP - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:16
+   2. v - addons/eui/lua/eui/modules/vehicle/sv_init.lua:104
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[lib_plibv2] gamemodes/darkrp/gamemode/core/player/government/mayor/commands_sv.lua:214: attempt to index a nil value
+  1. v - gamemodes/darkrp/gamemode/core/player/government/mayor/commands_sv.lua:214
+   2. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+    3. ChangeTeam - gamemodes/darkrp/gamemode/core/player/player_old_sv.lua:294
+     4. Run - gamemodes/darkrp/gamemode/core/makethings/commands_sh.lua:89
+      5. Run - addons/lib_plibv2/lua/plib/libraries/cmd.lua:354
+       6. func - addons/lib_plibv2/lua/plib/libraries/cmd.lua:579
+        7. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[system_admin] addons/system_admin/lua/ba/core/ranks/groups_sv.lua:37: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/system_admin/lua/ba/core/ranks/groups_sv.lua:37
+
+
+[system_cards] addons/system_cards/lua/cards/server/sv_init.lua:59: attempt to index a nil value
+  1. unknown - addons/system_cards/lua/cards/server/sv_init.lua:59
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. unknown - addons/system_tickets/lua/tickets/server/sv_init.lua:107
+    3. unknown - lua/includes/modules/concommand.lua:60
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100: attempt to index field 'Handle' (a boolean value)
+  1. Escape - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:138
+    3. gsub - [C]:-1
+     4. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:136
+      5. unknown - addons/system_models/lua/models/server/sv_init.lua:90
+       6. unknown - lua/includes/modules/concommand.lua:60
+
+
+[system_admin] addons/system_admin/lua/ba/core/data_sv.lua:166: attempt to index upvalue 'db' (a nil value)
+  1. LogSetGroup - addons/system_admin/lua/ba/core/data_sv.lua:166
+   2. Init - addons/system_admin/lua/ba/plugins/n_curator.lua:105
+    3. RunCommand - addons/system_admin/lua/ba/core/commands/commands_sv.lua:30
+     4. unknown - addons/system_admin/lua/ba/core/commands/commands_sv.lua:69
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[lib_plibv2] AddCSLuaFile: Couldn't find 'darkrp/gamemode/cfg/doors/gm_construct.lua'
+  1. IncludeSH - addons/lib_plibv2/lua/plib/init.lua:17
+   2. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+    3. include - [C]:-1
+     4. unknown - gamemodes/darkrp/gamemode/init.lua:9
+
+
+[ERROR] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/init.lua:9
+
+Corrupt Entity "Горшок": element model is corrupt.
+Corrupt Entity "Плита": element model is corrupt.
+Corrupt shipment "Пистолет TT": element model is corrupt.
+Corrupt shipment "Пистолет Макаров": element model is corrupt.
+Corrupt shipment "MP-443 Грач": element model is corrupt.
+Corrupt shipment "GSH-18": element model is corrupt.
+Corrupt shipment "M416-Rex": element model is corrupt.
+Corrupt shipment "AKS-74U": element model is corrupt.
+Corrupt shipment "PP1901 Витязь": element model is corrupt.
+Corrupt shipment "Vikhr": element model is corrupt.
+Corrupt shipment "AK-74": element model is corrupt.
+Corrupt shipment "AK-12": element model is corrupt.
+Corrupt shipment "AKM": element model is corrupt.
+Corrupt shipment "AS-VAL": element model is corrupt.
+Corrupt shipment "SVD Dragunov": element model is corrupt.
+Corrupt shipment "SVT": element model is corrupt.
+Corrupt shipment "VSS (Прицел)": element model is corrupt.
+Corrupt shipment "ПКМ": element model is corrupt.
+Corrupt shipment "PKP Печенег": element model is corrupt.
+Corrupt shipment "Saiga 20K": element model is corrupt.
+Corrupt shipment "SV-98": element model is corrupt.
+Corrupt shipment "Щиты": element model is corrupt.
+Corrupt shipment "Грушовый сок": element model is corrupt.
+Corrupt shipment "HQD яблоко": element model is corrupt.
+Corrupt shipment "HQD черника": element model is corrupt.
+Corrupt shipment "HQD виноград": element model is corrupt.
+Corrupt shipment "HQD лёд-манго": element model is corrupt.
+Corrupt shipment "HQD ананас": element model is corrupt.
+Corrupt shipment "Вода": element model is corrupt.
+Corrupt shipment "Трава": element model is corrupt.
+Corrupt shipment "Героин": element model is corrupt.
+Corrupt shipment "Сигареты": element model is corrupt.
+Corrupt shipment "ЛСД": element model is corrupt.
+Corrupt shipment "Грибы": element model is corrupt.
+Corrupt shipment "Кокаин": element model is corrupt.
+Corrupt shipment "Синий мет": element model is corrupt.
+Corrupt Entity "Дизель 20 литров": element model is corrupt.
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. CreateMoneyColumn - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:16
+    3. unknown - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:29
+
+
+[lib_plibv2] AddCSLuaFile: Couldn't find 'darkrp/gamemode/cfg/doors/gm_construct.lua'
+  1. IncludeSH - addons/lib_plibv2/lua/plib/init.lua:17
+   2. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+    3. include - [C]:-1
+     4. unknown - gamemodes/darkrp/gamemode/init.lua:9
+
+
+[ERROR] Couldn't include file 'darkrp\gamemode\cfg\doors\gm_construct.lua' - File not found or is empty (@gamemodes/darkrp/gamemode/sh_init.lua (line 83))
+  1. unknown - gamemodes/darkrp/gamemode/sh_init.lua:83
+   2. include - [C]:-1
+    3. unknown - gamemodes/darkrp/gamemode/init.lua:9
+
+Corrupt Entity "Горшок": element model is corrupt.
+Corrupt Entity "Плита": element model is corrupt.
+Corrupt shipment "Пистолет TT": element model is corrupt.
+Corrupt shipment "Пистолет Макаров": element model is corrupt.
+Corrupt shipment "MP-443 Грач": element model is corrupt.
+Corrupt shipment "GSH-18": element model is corrupt.
+Corrupt shipment "M416-Rex": element model is corrupt.
+Corrupt shipment "AKS-74U": element model is corrupt.
+Corrupt shipment "PP1901 Витязь": element model is corrupt.
+Corrupt shipment "Vikhr": element model is corrupt.
+Corrupt shipment "AK-74": element model is corrupt.
+Corrupt shipment "AK-12": element model is corrupt.
+Corrupt shipment "AKM": element model is corrupt.
+Corrupt shipment "AS-VAL": element model is corrupt.
+Corrupt shipment "SVD Dragunov": element model is corrupt.
+Corrupt shipment "SVT": element model is corrupt.
+Corrupt shipment "VSS (Прицел)": element model is corrupt.
+Corrupt shipment "ПКМ": element model is corrupt.
+Corrupt shipment "PKP Печенег": element model is corrupt.
+Corrupt shipment "Saiga 20K": element model is corrupt.
+Corrupt shipment "SV-98": element model is corrupt.
+Corrupt shipment "Щиты": element model is corrupt.
+Corrupt shipment "Грушовый сок": element model is corrupt.
+Corrupt shipment "HQD яблоко": element model is corrupt.
+Corrupt shipment "HQD черника": element model is corrupt.
+Corrupt shipment "HQD виноград": element model is corrupt.
+Corrupt shipment "HQD лёд-манго": element model is corrupt.
+Corrupt shipment "HQD ананас": element model is corrupt.
+Corrupt shipment "Вода": element model is corrupt.
+Corrupt shipment "Трава": element model is corrupt.
+Corrupt shipment "Героин": element model is corrupt.
+Corrupt shipment "Сигареты": element model is corrupt.
+Corrupt shipment "ЛСД": element model is corrupt.
+Corrupt shipment "Грибы": element model is corrupt.
+Corrupt shipment "Кокаин": element model is corrupt.
+Corrupt shipment "Синий мет": element model is corrupt.
+Corrupt Entity "Дизель 20 литров": element model is corrupt.
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. CreateMoneyColumn - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:16
+    3. unknown - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:29
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. LoadPlayer - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:11
+    3. unknown - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:138
+
+
+[lib_plibv2] lua/autorun/server/sv_triggers.lua:24: attempt to index local 'spawns' (a nil value)
+  1. v - lua/autorun/server/sv_triggers.lua:24
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. LoadPlayer - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:11
+    3. v - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:66
+     4. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:321: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:321
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100: attempt to index field 'Handle' (a boolean value)
+  1. Escape - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:138
+    3. gsub - [C]:-1
+     4. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:136
+      5. v - addons/system_models/lua/models/server/sv_init.lua:139
+       6. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+        7. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:354
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8: attempt to index a nil value
+  1. IsMayor - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:410
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. CreateMoneyColumn - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:16
+    3. unknown - gamemodes/darkrp/gamemode/core/orgs/init_sv.lua:29
+
+
+[system_admin] addons/system_admin/lua/ba/modules/darkrp/bans/bans_sv.lua:75: attempt to call field 'IsBanned' (a nil value)
+  1. v - addons/system_admin/lua/ba/modules/darkrp/bans/bans_sv.lua:75
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. LoadPlayer - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:11
+    3. v - gamemodes/darkrp/gamemode/core/player/data/data_sv.lua:66
+     4. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:321: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:321
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100: attempt to index field 'Handle' (a boolean value)
+  1. Escape - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:100
+   2. unknown - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:138
+    3. gsub - [C]:-1
+     4. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:136
+      5. v - addons/system_models/lua/models/server/sv_init.lua:139
+       6. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+        7. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:354
+
+
+[system_admin] addons/system_admin/lua/ba/core/data_sv.lua:47: attempt to index upvalue 'db' (a nil value)
+  1. LoadPlayer - addons/system_admin/lua/ba/core/data_sv.lua:47
+   2. v - addons/system_admin/lua/ba/core/ranks/groups_sv.lua:19
+    3. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[system_admin] addons/system_admin/lua/ba/core/logging/logs_sv.lua:115: attempt to index upvalue 'db' (a nil value)
+  1. func - addons/system_admin/lua/ba/core/logging/logs_sv.lua:115
+   2. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[system_inventory] addons/system_inventory/lua/itemstore/sv_player.lua:418: attempt to index field 'Inventory' (a nil value)
+  1. func - addons/system_inventory/lua/itemstore/sv_player.lua:418
+   2. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[lib_plibv2] addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/lib_plibv2/lua/plib/libraries/server/mysql.lua:141
+   2. v - addons/addition_donate/lua/autorun/server/donates_sv.lua:155
+    3. Run - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+     4. v - addons/addition_donate/lua/autorun/server/donates_sv.lua:18
+      5. unknown - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+
+
+[system_inventory] addons/system_inventory/lua/itemstore/sv_player.lua:418: attempt to index field 'Inventory' (a nil value)
+  1. func - addons/system_inventory/lua/itemstore/sv_player.lua:418
+   2. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[system_admin] addons/system_admin/lua/ba/core/bans_sv.lua:18: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/system_admin/lua/ba/core/bans_sv.lua:18
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8: attempt to index a nil value
+  1. IsMayor - gamemodes/darkrp/gamemode/core/player/government/player_sh.lua:8
+   2. unknown - gamemodes/darkrp/gamemode/core/player/government/mayor/loyality_sv.lua:167
+
+
+[system_admin] addons/system_admin/lua/ba/core/ranks/groups_sv.lua:37: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/system_admin/lua/ba/core/ranks/groups_sv.lua:37
+
+
+[system_cards] addons/system_cards/lua/cards/server/sv_init.lua:59: attempt to index a nil value
+  1. unknown - addons/system_cards/lua/cards/server/sv_init.lua:59
+
+
+[lib_plibv2] gamemodes/darkrp/gamemode/core/player/government/mayor/commands_sv.lua:214: attempt to index a nil value
+  1. v - gamemodes/darkrp/gamemode/core/player/government/mayor/commands_sv.lua:214
+   2. Call - addons/lib_plibv2/lua/plib/libraries/hook.lua:42
+    3. ChangeTeam - gamemodes/darkrp/gamemode/core/player/player_old_sv.lua:294
+     4. Run - gamemodes/darkrp/gamemode/core/makethings/commands_sh.lua:89
+      5. Run - addons/lib_plibv2/lua/plib/libraries/cmd.lua:354
+       6. func - addons/lib_plibv2/lua/plib/libraries/cmd.lua:579
+        7. unknown - gamemodes/darkrp/gamemode/modules/protect/netlog_sv.lua:63
+
+
+[plib_v2] lua/autorun/server/sv_triggers.lua:23: Tried to use a NULL entity!
+  1. Spawn - [C]:-1
+   2. v - lua/autorun/server/sv_triggers.lua:23
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+[badmin] addons/badmin/lua/ba/modules/darkrp/bans/bans_sv.lua:62: attempt to call field 'IsBanned' (a nil value)
+  1. v - addons/badmin/lua/ba/modules/darkrp/bans/bans_sv.lua:62
+   2. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/spawn_sv.lua:3: attempt to index upvalue 'spawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/spawn_sv.lua:3
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. PlayerSelectSpawn - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:287
+
+
+[badmin] addons/badmin/lua/ba/core/data_sv.lua:56: attempt to index upvalue 'db' (a nil value)
+  1. LoadPlayer - addons/badmin/lua/ba/core/data_sv.lua:56
+   2. v - addons/badmin/lua/ba/core/ranks/groups_sv.lua:12
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+[badmin] addons/badmin/lua/ba/core/logging/logs_sv.lua:99: attempt to index upvalue 'db' (a nil value)
+  1. func - addons/badmin/lua/ba/core/logging/logs_sv.lua:99
+   2. unknown - lua/autorun/server/chat_sv.lua:151
+
+
+[badmin] addons/badmin/lua/ba/core/bans_sv.lua:8: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/badmin/lua/ba/core/bans_sv.lua:8
+
+
+[plib_v2] addons/plib_v2/lua/plib/libraries/server/mysql.lua:135: attempt to index field 'Handle' (a boolean value)
+  1. Query - addons/plib_v2/lua/plib/libraries/server/mysql.lua:135
+   2. LoadCredits - gamemodes/darkrp/gamemode/core/credits/init_sv.lua:69
+    3. Run - gamemodes/darkrp/gamemode/core/credits/init_sv.lua:28
+     4. Run - addons/plib_v2/lua/plib/libraries/cmd.lua:320
+      5. func - addons/plib_v2/lua/plib/libraries/cmd.lua:502
+       6. unknown - lua/autorun/server/chat_sv.lua:151
+
+
+[badmin] addons/badmin/lua/ba/core/data_sv.lua:23: attempt to call field 'Get' (a nil value)
+  1. GetID - addons/badmin/lua/ba/core/data_sv.lua:23
+   2. SetRank - addons/badmin/lua/ba/core/data_sv.lua:110
+    3. Init - addons/badmin/lua/ba/plugins/core.lua:12
+     4. RunCommand - addons/badmin/lua/ba/core/commands/commands_sv.lua:23
+      5. unknown - addons/badmin/lua/ba/core/commands/commands_sv.lua:57
+       6. unknown - lua/includes/modules/concommand.lua:60
+
+
+[plib_v2] lua/autorun/server/sv_triggers.lua:23: Tried to use a NULL entity!
+  1. Spawn - [C]:-1
+   2. v - lua/autorun/server/sv_triggers.lua:23
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+[badmin] addons/badmin/lua/ba/modules/darkrp/bans/bans_sv.lua:62: attempt to call field 'IsBanned' (a nil value)
+  1. v - addons/badmin/lua/ba/modules/darkrp/bans/bans_sv.lua:62
+   2. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/spawn_sv.lua:3: attempt to index upvalue 'spawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/spawn_sv.lua:3
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. PlayerSelectSpawn - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:287
+
+
+[badmin] addons/badmin/lua/ba/core/data_sv.lua:56: attempt to index upvalue 'db' (a nil value)
+  1. LoadPlayer - addons/badmin/lua/ba/core/data_sv.lua:56
+   2. v - addons/badmin/lua/ba/core/ranks/groups_sv.lua:12
+    3. unknown - addons/plib_v2/lua/plib/libraries/hook.lua:36
+
+
+[badmin] addons/badmin/lua/ba/core/logging/logs_sv.lua:99: attempt to index upvalue 'db' (a nil value)
+  1. func - addons/badmin/lua/ba/core/logging/logs_sv.lua:99
+   2. unknown - lua/autorun/server/chat_sv.lua:151
+
+
+[badmin] addons/badmin/lua/ba/core/data_sv.lua:23: attempt to call field 'Get' (a nil value)
+  1. GetID - addons/badmin/lua/ba/core/data_sv.lua:23
+   2. SetRank - addons/badmin/lua/ba/core/data_sv.lua:110
+    3. Init - addons/badmin/lua/ba/plugins/core.lua:12
+     4. RunCommand - addons/badmin/lua/ba/core/commands/commands_sv.lua:23
+      5. unknown - addons/badmin/lua/ba/core/commands/commands_sv.lua:57
+       6. unknown - lua/includes/modules/concommand.lua:60
+
+
+[badmin] addons/badmin/lua/ba/core/bans_sv.lua:8: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/badmin/lua/ba/core/bans_sv.lua:8
+
+
+[plib_v2] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+   2. Spawn - [C]:-1
+    3. ChangeTeam - gamemodes/darkrp/gamemode/core/player/player_old_sv.lua:281
+     4. Run - gamemodes/darkrp/gamemode/core/makethings/commands_sh.lua:83
+      5. Run - addons/plib_v2/lua/plib/libraries/cmd.lua:320
+       6. func - addons/plib_v2/lua/plib/libraries/cmd.lua:502
+        7. unknown - lua/autorun/server/chat_sv.lua:151
+
+
+[plib_v2] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. PlayerSelectSpawn - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:287
+    3. Spawn - [C]:-1
+     4. ChangeTeam - gamemodes/darkrp/gamemode/core/player/player_old_sv.lua:281
+      5. Run - gamemodes/darkrp/gamemode/core/makethings/commands_sh.lua:83
+       6. Run - addons/plib_v2/lua/plib/libraries/cmd.lua:320
+        7. func - addons/plib_v2/lua/plib/libraries/cmd.lua:502
+         8. unknown - lua/autorun/server/chat_sv.lua:151
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223: bad argument #1 to 'SetBodyGroups' (string expected, got nil)
+  1. SetBodyGroups - [C]:-1
+   2. DoPlayerEntitySpawn - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223
+    3. GMODSpawnProp - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:150
+     4. unknown - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:15
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223: bad argument #1 to 'SetBodyGroups' (string expected, got nil)
+  1. SetBodyGroups - [C]:-1
+   2. DoPlayerEntitySpawn - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223
+    3. GMODSpawnProp - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:150
+     4. unknown - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:15
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223: bad argument #1 to 'SetBodyGroups' (string expected, got nil)
+  1. SetBodyGroups - [C]:-1
+   2. DoPlayerEntitySpawn - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223
+    3. GMODSpawnProp - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:150
+     4. unknown - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:15
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223: bad argument #1 to 'SetBodyGroups' (string expected, got nil)
+  1. SetBodyGroups - [C]:-1
+   2. DoPlayerEntitySpawn - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223
+    3. GMODSpawnProp - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:150
+     4. unknown - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:15
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223: bad argument #1 to 'SetBodyGroups' (string expected, got nil)
+  1. SetBodyGroups - [C]:-1
+   2. DoPlayerEntitySpawn - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223
+    3. GMODSpawnProp - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:150
+     4. unknown - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:15
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[ERROR] gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223: bad argument #1 to 'SetBodyGroups' (string expected, got nil)
+  1. SetBodyGroups - [C]:-1
+   2. DoPlayerEntitySpawn - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:223
+    3. GMODSpawnProp - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:150
+     4. unknown - gamemodes/darkrp/gamemode/core/sandbox/commands_sv.lua:15
+      5. unknown - lua/includes/modules/concommand.lua:60
+
+
+[badmin] addons/badmin/lua/ba/core/ranks/groups_sv.lua:30: attempt to index upvalue 'db' (a nil value)
+  1. unknown - addons/badmin/lua/ba/core/ranks/groups_sv.lua:30
+
+
+[plib_v2] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+   2. Spawn - [C]:-1
+    3. ChangeTeam - gamemodes/darkrp/gamemode/core/player/player_old_sv.lua:281
+     4. Run - gamemodes/darkrp/gamemode/core/makethings/commands_sh.lua:83
+      5. Run - addons/plib_v2/lua/plib/libraries/cmd.lua:320
+       6. func - addons/plib_v2/lua/plib/libraries/cmd.lua:502
+        7. unknown - lua/autorun/server/chat_sv.lua:151
+
+
+[plib_v2] gamemodes/darkrp/gamemode/core/core_sv.lua:253: attempt to get length of upvalue 'NormalSpawns' (a nil value)
+  1. PlayerSelectSpawn - gamemodes/darkrp/gamemode/core/core_sv.lua:253
+   2. unknown - gamemodes/darkrp/gamemode/core/core_sv.lua:287
+    3. Spawn - [C]:-1
+     4. ChangeTeam - gamemodes/darkrp/gamemode/core/player/player_old_sv.lua:281
+      5. Run - gamemodes/darkrp/gamemode/core/makethings/commands_sh.lua:83
+       6. Run - addons/plib_v2/lua/plib/libraries/cmd.lua:320
+        7. func - addons/plib_v2/lua/plib/libraries/cmd.lua:502
+         8. unknown - lua/autorun/server/chat_sv.lua:151
+

@@ -1,0 +1,12 @@
+particles_manifest
+{
+	"file"		"particles/portalgun.pcf"
+	"file"		"particles/portal_projectile.pcf"
+	"file"		"particles/portals.pcf"
+	"file"		"particles/cleansers.pcf"
+	"file"		"particles/tubes.pcf"
+	"file"		"particles/environment.pcf"
+	"file"		"particles/glados.pcf"
+	"file"		"particles/neurotoxins.pcf"
+	"file"		"particles/finale_fx.pcf"
+}
